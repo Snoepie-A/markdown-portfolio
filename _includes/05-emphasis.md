@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I can code im **C**, **Javascript**, **HTML**, **CSS** and **Pythong**. I love *learnign new programming languages and concepts in Computer Science*. I do believ I am a **good writer** and have a good sense of **humor**.
