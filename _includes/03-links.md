@@ -1,1 +1,1 @@
-[GitHub(https://github.com/Snoepie-A)
+[GitHub](https://github.com/Snoepie-A)
